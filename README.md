@@ -4,7 +4,7 @@ This submission consists of two files: <br/>
 1. Q1.py is the py file to implement data manipulation<br/>
 2. output_20210618-223543.csv is the output csv file<br/>
 
-To Simulate the result: python Q1.py
+To Simulate the result: **python Q1.py**
 (please note the folder structure needs to be identical with this submission)<br/>
 
 The version of libaries in this implementation is as follows:<br/>
