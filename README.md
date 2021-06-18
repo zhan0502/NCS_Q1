@@ -1,5 +1,4 @@
 # NCS_Q1
-Please refer to comments in Q1.py
 Run the file using:<br/>
 python Q1.py
 
