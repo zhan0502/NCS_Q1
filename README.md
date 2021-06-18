@@ -1,8 +1,8 @@
 # NCS_Q1
 
-This submission consists of two files. <br/>
-Q1.py is the py file to implement data manipulation
-output_20210618-223543.csv is the output csv file
+This submission consists of two files: <br/>
+Q1.py is the py file to implement data manipulation<br/>
+output_20210618-223543.csv is the output csv file<br/>
 
 To Simulate the result: (please note the folder structure needs to be identical with this submission)<br/>
 Run the file using:<br/>
